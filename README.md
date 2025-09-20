@@ -8,9 +8,13 @@
 ##  Структура проекта
 
 ├── init_db.py # Скрипт для инициализации базы
+
 ├── output.tf # Terraform outputs
+
 ├── vkcs_provider.tf # Terraform провайдер для VK Cloud
+
 ├── terraform.tfstate # Состояние Terraform
+
 ├── LICENSE.txt # MPL 2.0 License
 
 ##  Установка и запуск
@@ -27,7 +31,7 @@ terraform apply
 ```
 ### 3. Настройка базы данных
 
-Укажи параметры подключения в init_db.py:
+Укажи параметры подключения в `init_db.py`:
 ```bash
 DB_HOST = "your-db-host"
 DB_USER = "your-user"
@@ -39,4 +43,4 @@ DB_NAME = "your-database"
 python init_db.py
 ```
 ##  Скриншот работы
-<img src="C:\Users\oppstoppa\Documents\Screen.jpg">
+Можно посмотреть вовложениив проекте -- Screen.jpg
