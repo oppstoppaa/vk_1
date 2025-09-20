@@ -18,12 +18,13 @@
 ### 1. Установка зависимостей
 ```bash
 pip install mysql-connector-python
+```
 
 ### 2. Инициализация Terraform
 ```bash
 terraform init
 terraform apply
-
+```
 ### 3. Настройка базы данных
 
 Укажи параметры подключения в init_db.py:
@@ -32,10 +33,11 @@ DB_HOST = "your-db-host"
 DB_USER = "your-user"
 DB_PASSWORD = "your-password"
 DB_NAME = "your-database"
-
+```
 ### 4. Запуск скрипта
 ```bash
 python init_db.py
-
+```
 ##  Скриншот работы
-(C:\Users\oppstoppa\Documents\Screen.jpg)
+<img src="C:\Users\oppstoppa\Documents\Screen.jpg">
+```
