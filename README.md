@@ -40,4 +40,3 @@ python init_db.py
 ```
 ##  Скриншот работы
 <img src="C:\Users\oppstoppa\Documents\Screen.jpg">
-```
