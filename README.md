@@ -43,4 +43,4 @@ DB_NAME = "your-database"
 python init_db.py
 ```
 ##  Скриншот работы
-Можно посмотреть вовложениив проекте -- Screen.jpg
+Можно посмотреть во вложении в проекте -- Screen.jpg
